@@ -1,0 +1,27 @@
+@media (max-width: 1024px) {
+ 
+
+    .photo_img{
+        width: 520px;
+    }
+
+    .photo_card {
+        width: 57.83%;
+    }
+
+    .img_1 {
+        position: absolute;
+        left: 61.5%;
+        top: 15%;
+        width: 300px;
+        height: 120px;
+    }
+
+    .img_2 {
+        position: absolute;
+        left: 61.5%;
+        top: 49.5%;
+        width: 300px;
+        height: 120px;
+    }
+}

@@ -1,0 +1,33 @@
+@media (max-width: 834px) {
+    .section3 {
+        height: 648px;
+    }
+
+    .img_1 {
+        position: absolute;
+        left: 9%;
+        top: 63.5%
+    }
+    
+    .img_2 {
+        position: absolute;
+        left: 54%;
+        top: 63.5%
+    }
+    .photo_card {
+        position: absolute;
+        left: 40%;
+        top: 35%;
+        transform: translate(-50%, -50%);
+    }
+    .photo_img{
+        width: 100%;
+    }
+
+    .photo_p {
+        color: #FFF;
+        font-family: 'Kanit', sans-serif;
+        line-height: 20px;
+        width: 130%;
+    }
+}
